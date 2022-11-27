@@ -17,13 +17,13 @@
 .left-section {
     grid-column: span 2;
     height: 100%;
-    background-color: #999999;
+    background-color: #d41f71;
 }
 
 .right-section {
     grid-column: span 5;
     height: 100%;
-    background-color: #424a50;
+    background-color: #e6639c;
     border-radius: 0px 60px 0px 0px;
 }
 
@@ -68,7 +68,7 @@
 .contact-info ul li,
 .references ul li {
     padding: .4rem 0;
-    color: #eeeeee;
+    color: #ffffff;
 }
 
 .contact-info ul li i,
