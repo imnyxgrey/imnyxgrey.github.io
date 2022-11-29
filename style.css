@@ -7,7 +7,7 @@
 }
 
 body {
-    background-color: #e2a0c3;
+    background-color: #df98be;
 }
 
 .resume-contents {
@@ -27,7 +27,7 @@ body {
 .right-section {
     grid-column: span 5;
     height: 100%;
-    background-color: #dd66b0;
+    background-color: #dd5eac;
     border-radius: 0px 60px 0px 0px;
 }
 
